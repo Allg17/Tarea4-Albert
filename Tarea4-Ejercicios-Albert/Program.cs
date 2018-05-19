@@ -18,6 +18,7 @@ namespace Tarea4_Ejercicios_Albert
         {
             string op;
             int ops;
+            
             Console.WriteLine("Menu de opciones");
             Console.WriteLine("1. programa 1 capitulo 7, 2. programa 2 capitulo 7, 3. Programa 3 capitulo 7, 4. programa 4 capitulo 7" +
                 "5. programa 5 capitulo 7, 6. Programa 1 capitulo 8, 7. Programa 2 capitulo, 8. Programa 3 capitulo, 9. Programa 4 capitulo 8" +
